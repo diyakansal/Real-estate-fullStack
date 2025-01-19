@@ -153,7 +153,7 @@ import 'swiper/css/bundle';
 import {Navigation} from 'swiper/modules';
 import SwiperCore from 'swiper';
 import ListingItem from '../components/ListingItem';
-import videoFile from '../assets//7578552-uhd_3840_2160_30fps.mp4';
+import videoFile from '../assets/4770380-hd_1920_1080_30fps.mp4';
 import Footer  from '../components/Footer'
 
 function Home() {
@@ -211,22 +211,6 @@ function Home() {
     });
   };
   const sections = [
-    {
-      title: 'what is  WoodlandEscape and does it work?',
-      content: 'WoodlandEscape is a rental and real estate website designed to connect individuals with serene properties nestled amidst wooded areas or natural landscapes. It serves as a platform for users to discover and book charming cottages, cabins, and homes situated in peaceful woodland settings. Whether youre seeking a weekend retreat or a permanent escape to nature, WoodlandEscape provides a curated selection of properties to meet your needs. Yes, it works by providing users with a seamless browsing experience, detailed property listings, and convenient booking options, facilitating the process of finding the perfect woodland getaway.',
-    },
-    {
-      title: 'How do I use search filters?',
-      content: 'Using search filters on WoodlandEscape is easy and convenient. Simply navigate to the search bar on the homepage or designated search page of the website. From there, you can input your desired location, dates of stay, and any specific criteria youre looking for in a woodland property, such as amenities, accommodation type, or price range Once youve entered your search criteria, you can further refine your results using the available filters. These filters typically include options to narrow down your search by property features, such as number of bedrooms, pet-friendly accommodations, proximity to hiking trails, or whether the property has a fireplace or hot tub By adjusting these filters according to your preferences, you can quickly and efficiently find properties that meet your specific needs and preferences. This makes it easier to find the perfect woodland escape for your next getaway.',
-    },
-    {
-      title: 'Are the properties on WoodlandEscape pet-friendly?',
-      content: ' Yes, many of the properties listed on WoodlandEscape are pet-friendly. You can use our search filters to specifically look for properties that welcome pets. Be sure to check the property description and amenities list for details on pet policies and any additional fees.',
-    },
-    {
-      title: 'What types of properties can I find on WoodlandEscape?',
-      content: 'WoodlandEscape offers a diverse range of properties including cozy cabins, rustic cottages, secluded lodges, and charming chalets, all nestled amidst picturesque woodland settings. Whether youre looking for a romantic retreat for two or a spacious family-friendly getaway, you wll find a variety of options to suit your preferences.',
-    },
   ];
   return (
     <div>
